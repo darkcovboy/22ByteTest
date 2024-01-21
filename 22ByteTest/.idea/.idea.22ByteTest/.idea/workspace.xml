@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d27375de-d3bc-41d0-8a00-e6290cb0da4f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Data/Data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/BasketScripts.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/BasketScripts/Basket.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/BasketScripts/Basket.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/BasketScripts/BusketButton.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/BasketScripts/BusketButton.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/BasketScripts/BusketButtonManager.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/BasketScripts/BusketButtonManager.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Items.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Items/Fruit.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Items/Fruit.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Items/FruitsCounter.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Items/FruitsCounter.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Items/FruitsCountnerVIew.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Items/FruitsCountnerView.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Items/IFruitChanged.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Items/IFruitChanged.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Items/IGameWinning.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Items/IGameWinning.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Items/ItemType.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Items/ItemType.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Loader/LevelLoader.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Loader/LevelLoader.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/MainScene.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/MainScene/Levels/Level.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/MainScene/Levels/Level.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/MainScene/Levels/LevelFabric.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/MainScene/Levels/LevelFabric.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/MainScene/Levels/LevelInfoContainer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/MainScene/Levels/LevelInfoContainer.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/MainScene/Levels/LevelsService.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/MainScene/Levels/LevelsService.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/MainScene/Levels/LevelsView.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/MainScene/Levels/LevelsView.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/MainScene/MainSceneInstaller.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/MainScene/MainSceneInstaller.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerScripts/DieCheck.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerScripts/DieCheck.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerScripts/IDieHandler.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerScripts/IDieHandler.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerScripts/Movement/MoveHandler.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerScripts/Movement/MoveHandler.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerScripts/Movement/SwipeDetector/ISwipeDetector.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerScripts/Movement/SwipeDetector/ISwipeDetector.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerScripts/Movement/SwipeDetector/SwipeData.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerScripts/Movement/SwipeDetector/SwipeData.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerScripts/Movement/SwipeDetector/SwipeDirection.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerScripts/Movement/SwipeDetector/SwipeDirection.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerScripts/PersistentData/PlayerSave.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerScripts/PersistentData/PlayerSave.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerScripts/Player.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerScripts/Player.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/System/GameLoseManager.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/System/GameLoseManager.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/System/GameplaySceneFabric.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/System/GameplaySceneFabric.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/System/GameplaySceneInstaller.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/System/GameplaySceneInstaller.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/System/LevelSettings.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/System/LevelSettings.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/UI.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/UI/ExtraRewardGame.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/UI/ExtraRewardGame/Cell.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/UI/ExtraRewardGame/Cell.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/UI/ExtraRewardGame/CellView.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/UI/ExtraRewardGame/CellView.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/UI/ExtraRewardGame/CellViewFabric.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/UI/ExtraRewardGame/CellViewFabric.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/UI/ExtraRewardGame/Match3Game.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/UI/ExtraRewardGame/Match3Game.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/UI/LevelName.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/UI/LevelName.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/UI/LoseScreen.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/UI/LoseScreen.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/UI/TimerScripts.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/UI/TimerScripts/ICoroutineRunner.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/UI/TimerScripts/ICoroutineRunner.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/UI/TimerScripts/Timer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/UI/TimerScripts/Timer.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/UI/TimerScripts/TimerView.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/UI/TimerScripts/TimerView.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/UI/WinScreen.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/UI/WinScreen.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/World.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/World/GridDrawer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/World/GridDrawer.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TechcomTest/.idea/.idea.TechcomTest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TechcomTest/.idea/.idea.TechcomTest/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TechcomTest/Assets/Scenes/Main.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../TechcomTest/Assets/Scenes/Main.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TechcomTest/Library/ArtifactDB" beforeDir="false" afterPath="$PROJECT_DIR$/../TechcomTest/Library/ArtifactDB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TechcomTest/Library/Artifacts/58/58ae1d4876fb5d2f43078fcff82fe9b8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TechcomTest/Library/Bee/TundraBuildState.state" beforeDir="false" afterPath="$PROJECT_DIR$/../TechcomTest/Library/Bee/TundraBuildState.state" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TechcomTest/Library/Bee/TundraBuildState.state.map" beforeDir="false" afterPath="$PROJECT_DIR$/../TechcomTest/Library/Bee/TundraBuildState.state.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TechcomTest/Library/Bee/backend1.traceevents" beforeDir="false" afterPath="$PROJECT_DIR$/../TechcomTest/Library/Bee/backend1.traceevents" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TechcomTest/Library/Bee/fullprofile.json" beforeDir="false" afterPath="$PROJECT_DIR$/../TechcomTest/Library/Bee/fullprofile.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TechcomTest/Library/Bee/tundra.digestcache" beforeDir="false" afterPath="$PROJECT_DIR$/../TechcomTest/Library/Bee/tundra.digestcache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TechcomTest/Library/Bee/tundra.log.json" beforeDir="false" afterPath="$PROJECT_DIR$/../TechcomTest/Library/Bee/tundra.log.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TechcomTest/Library/InspectorExpandedItems.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../TechcomTest/Library/InspectorExpandedItems.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TechcomTest/Library/PlayModeViewStates/7f31513e6c49bb946886aad68f0c5e7d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TechcomTest/Library/SceneVisibilityState.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../TechcomTest/Library/SceneVisibilityState.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TechcomTest/Library/Search/transactions.db" beforeDir="false" afterPath="$PROJECT_DIR$/../TechcomTest/Library/Search/transactions.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TechcomTest/Library/SourceAssetDB" beforeDir="false" afterPath="$PROJECT_DIR$/../TechcomTest/Library/SourceAssetDB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TechcomTest/Library/StateCache/SceneView/8c/8cd7c613bf844de3b80696e27a479d5e.json" beforeDir="false" afterPath="$PROJECT_DIR$/../TechcomTest/Library/StateCache/SceneView/8c/8cd7c613bf844de3b80696e27a479d5e.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TechcomTest/Library/ilpp.pid" beforeDir="false" afterPath="$PROJECT_DIR$/../TechcomTest/Library/ilpp.pid" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TechcomTest/Logs/AssetImportWorker0.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TechcomTest/Logs/AssetImportWorker1.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TechcomTest/Logs/AssetImportWorker2.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TechcomTest/Logs/shadercompiler-AssetImportWorker0.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TechcomTest/Logs/shadercompiler-UnityShaderCompiler.exe1.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TechcomTest/Logs/shadercompiler-UnityShaderCompiler.exe2.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TechcomTest/Logs/shadercompiler-UnityShaderCompiler.exe3.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TechcomTest/Logs/shadercompiler-UnityShaderCompiler.exe4.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TechcomTest/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../TechcomTest/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TechcomTest/ProjectSettings/UnityConnectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../TechcomTest/ProjectSettings/UnityConnectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TechcomTest/UserSettings/Layouts/default-2022.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/../TechcomTest/UserSettings/Layouts/default-2022.dwlt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JSON File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Init/InitSceneInstaller.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/World/GridDrawer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/Movement/SwipeController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/Movement/SwipeDetector/ISwipeDetector.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/Movement/MoveHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/Movement/SwipeDetector/SwipeDirection.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/Movement/SwipeDetector/SwipeDetector.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerScripts/Movement/SwipeDetector/SwipeDetector.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerScripts/Movement/SwipeDetector/ISwipeDetector.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerScripts/Movement/SwipeDetector/SwipeData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerScripts/Movement/SwipeDetector/SwipeDirection.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerScripts/Movement/MoveHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerScripts/Movement/SwipeController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerScripts/WalletScripts/IMoneyChangedView.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerScripts/WalletScripts/Wallet.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerScripts/WalletScripts/WalletView.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Items/Fruit.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Items/FruitsCountnerVIew.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Items/IFruitChanged.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Items/FruitsCoutner.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Items/FruitsCountnerView.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BasketScripts/BusketButtonManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BasketScripts/BusketButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerScripts/IDieHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerScripts/DieCheck.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerScripts/Timer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/TimerScripts/TimerView.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/LoseScreen.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/TimerScripts/ICoroutineRunner.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Items/IGameWinning.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/TimerScripts/Timer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/System/GameLoseManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerScripts/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/ExtraRewardGame/CellView.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/ExtraRewardGame/Cell.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/System/LevelSettings.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/ExtraRewardGame/CellViewFabric.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Items/ItemType.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/ExtraRewardGame/Match3Game.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/LevelName.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Items/FruitsCounter.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MainScene/Levels/Level.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/WinScreen.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MainScene/MainSceneInstaller.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MainScene/Levels/LevelsService.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerScripts/PersistentData/PlayerSave.cs" />
+        <option value="$PROJECT_DIR$/Assets/Resources/Data/Data.json" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BasketScripts/Basket.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Init/InitSceneInstaller.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/System/GameplaySceneFabric.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/System/GameplaySceneInstaller.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2b4peRZ5fGUWwABxW6Zho7d5QKM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="ReSpellerSettingsId" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d27375de-d3bc-41d0-8a00-e6290cb0da4f" name="Default Changelist" comment="" />
+      <created>1705484303536</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705484303536</updated>
+      <workItem from="1705484320806" duration="3674000" />
+      <workItem from="1705569561240" duration="9330000" />
+      <workItem from="1705664453751" duration="7634000" />
+      <workItem from="1705682039732" duration="4470000" />
+      <workItem from="1705740565434" duration="5454000" />
+      <workItem from="1705827714886" duration="6441000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="535" y="137" key="RiderGenerateDialog" timestamp="1705686241726">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="535" y="137" key="RiderGenerateDialog/0.0.1536.824@0.0.1536.824" timestamp="1705686241726" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1705677967315">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1705677967315" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1705673876857">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1705673876857" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1705495323097">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1705495323097" />
+  </component>
+</project>
